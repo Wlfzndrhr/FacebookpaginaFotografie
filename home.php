@@ -47,6 +47,8 @@
         <img src="http://www.elsaelsa.com/wp-content/uploads/2009/08/aishwarya_rai.jpg" alt="Aishwarya Rai" />
 
         <fb:comments num_posts="5" width="470" colorscheme="light"></fb:comments>
+        
+        <div class="fb-send" data-href="https://www.facebook.com/StephaneKalmesfotografie" data-font="segoe ui"></div>
     </div>
     <div id="fragment-3">
         <a href="#" onclick="publishStream(); return false;">Click here and see the publish prompt</a>
