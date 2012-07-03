@@ -46,7 +46,7 @@
         Born into a traditional south Indian family, Aishwarya started modeling at a young age. This green-blue-eyed beauty appeared in advertisements for many prestigious firms; the ones that brought her into the limelight were the garden sari and the Pepsi ad. Crowned Miss India 1994 runner-up, she was a hot favorite in the run for miss world title, which she won, her beauty and charm made her India's darling. Ash stormed into the Indian movie industry, where she has proven herself a brilliant & genuine actress.
         <img src="http://www.elsaelsa.com/wp-content/uploads/2009/08/aishwarya_rai.jpg" alt="Aishwarya Rai" />
 
-        <fb:comments xid="aiwsh" numposts="10" width="425" publish_feed="true"></fb:comments>
+        <fb:comments num_posts="5" width="470" colorscheme="light"></fb:comments>
     </div>
     <div id="fragment-3">
         <a href="#" onclick="publishStream(); return false;">Click here and see the publish prompt</a>
